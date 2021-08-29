@@ -1,0 +1,16 @@
+.greetings {
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 300;
+    font-stretch:extra-expanded;
+    color: darkcyan;
+}
+
+.time {
+    font-size: 20px;
+}
+
+.container {
+    background-color: white;
+    
+}
